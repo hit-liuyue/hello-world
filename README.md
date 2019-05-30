@@ -1,5 +1,5 @@
 # hello-world
-##First try
+## First try
 A try to use github
 
 The reason the create the repository is to learn how to add and commit changes.
